@@ -1,8 +1,8 @@
 ### Hi there 👋
-我是一名全栈开发，喜欢折腾本地知识库、AI绘图、ComfyUI。
+感觉什么都不会。
 - 📚 [个人知识库](https://youlingfeng.github.io/quartz-notes)
 - 🛠️ [个人工作台主页](https://youlingfeng.github.io)
-- 💻 主要技术：Java / Vue / Docker / Python
+- 💻 主要技术：trae workbuddy dsh codex
 
 #### 🧰 Tech Stack
 
